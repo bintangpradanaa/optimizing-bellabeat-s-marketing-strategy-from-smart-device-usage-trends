@@ -1,1 +1,1 @@
-# optimizing-bellabeat-s-marketing-strategy-from-smart-device-usage-trends
+# Optimizing Bellabeat’s Marketing Strategy from Smart Device Usage Trends
